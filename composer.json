@@ -1,0 +1,19 @@
+{
+    "name": "anran/face-detection",
+    "description": "PHP realizes picture face detection and face matting",
+    "require": {
+        "face-detection": "1.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anran\\FaceDetection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "denghao",
+            "email": "denghao@vdinsight.cn"
+        }
+    ]
+}
